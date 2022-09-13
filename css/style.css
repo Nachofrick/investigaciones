@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.contain main{
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    grid-template-rows: auto auto auto;
+    background-color: blue;
+    padding: 10px;
+    margin: 100px;
+}
+.con_{
+    
+    background-color: lightblue;
+    border: 1px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
